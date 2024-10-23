@@ -2,6 +2,7 @@
 
 Feature: Validating place API
 
+
 @AddPlace @Regression
 Scenario Outline: Verify if place added successfully
   	Given Add place Payload with "<name>" "<language>" "<address>"
