@@ -14,7 +14,7 @@ Scenario Outline: Verify if place added successfully
   	
 Examples: 
   | name  | language | address   |
-  | amma  | Bengali  | Kolkata   |
+  | Raj   | Bengali  | Kolkata   |
   #| nanna | Telugu   | Kodur     |
       
 
